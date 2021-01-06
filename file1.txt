@@ -1,8 +1,8 @@
 hello world
 hello
 
-change: to fix bug1
-change: by teammate on remote and added colon
-change: to fix bug1
-change: to fix bug2
-
+change1: to fix bug1
+change2: by teammate on remote and added colon
+change3: to fix bug1
+change4: to fix bug2
+change5: by teammate for WI6 and added number

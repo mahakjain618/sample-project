@@ -1,11 +1,12 @@
 hello world
 hello
 
-change1:: to fix bug1.
-change2:: by teammate on remote and added colon.
-change3:: to fix bug1.
-change4:: to fix bug2.
-change5:: by teammate for WI6 and added number.
-change6:: to work on cr1 and added extra colon.
+change1:: To fix bug1.
+change2:: By teammate on remote and added colon.
+change3:: To fix bug1.
+change4:: To fix bug2.
+change5:: By teammate for WI6 and added number.
+change6:: To work on cr1 and added extra colon.
 change7:: WI7 in progress.
 change8:: CR2 on remote master by teammate to test rebase with conflict.
+change9:: WI9 on local master to test confict with remote master.
